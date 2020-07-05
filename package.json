@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "npx vuese serve --open "
+  },
+  "dependencies": {
+    "@vuese/cli": "^2.13.1"
+  }
+}
